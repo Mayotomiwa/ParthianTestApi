@@ -1,0 +1,23 @@
+{
+  "name": "parthiantestapi",
+  "version": "1.0.0",
+  "description": "APi for the parthian partners test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayotomiwa/ParthianTestApi.git"
+  },
+  "author": "Oluseyi Mayotomiwa Immanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayotomiwa/ParthianTestApi/issues"
+  },
+  "homepage": "https://github.com/Mayotomiwa/ParthianTestApi#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
